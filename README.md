@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**GrumpyPanda98/GrumpyPanda98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I work at the intersection of neuroscience and computational modeling, exploring nociceptive processing and network dynamics in the PFC, ACC, and S1 in pigs.  
 
-Here are some ideas to get you started:
+### 🔬 What I Do  
+- Investigate neural stimulation and recording techniques  
+- Develop computational models for fiber activation  
+- Work on surgical approaches in porcine neuroscience research  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests  
+- Neural data analysis & deep learning models for neuroscience  
+- Experimental neuroscience & neuromodulation  
+- Rock climbing, hiking, and road trips when I'm not deep in data  
+
+### 📫 Get in Touch  
+Feel free to reach out if you're interested in neuroscience, modeling, or just want to chat about climbing spots!  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nickolaj-ajay-atchuthan/)
