@@ -1,5 +1,3 @@
-## Hi there 👋  
-
 Welcome to my GitHub! I work at the intersection of neuroscience and computational modeling, exploring nociceptive processing and network dynamics in the PFC, ACC, and S1 in pigs.  
 
 ### 🔬 What I Do  
