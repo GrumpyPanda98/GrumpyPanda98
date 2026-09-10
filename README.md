@@ -1,7 +1,15 @@
-I'm Nickolaj, a biomedical engineer and PhD fellow at Aalborg University's Center for Neuroplasticity and Pain. I work with intracranial recordings to study how the brain responds to nerve stimulation under general anaesthesia. Much of my day-to-day work is in Python: organising recording data, checking signal quality, analysing neural activity, and building deep-learning models.
+# Nickolaj Ajay Atchuthan
 
-Outside my PhD, I like building small tools around my hobbies. It's a way to try out ideas and learn by making something I can use. Away from the computer, I'm usually climbing, hiking, or taking photos.
+Biomedical engineer and PhD fellow at Aalborg University's Center for Neuroplasticity and Pain. My work is in basic pain research, with a focus on the neural dynamics of nociception.
 
-More about my research and projects: [atchuthan.com](https://atchuthan.com/)
+[Website](https://atchuthan.com/) · [ORCID](https://orcid.org/0009-0008-3474-6210) · [LinkedIn](https://www.linkedin.com/in/nickolaj-ajay-atchuthan/)
 
-[LinkedIn](https://www.linkedin.com/in/nickolaj-ajay-atchuthan/)
+### Research
+
+I probe the nervous system through stimulation and intracranial recording to understand how the brain processes nociceptive input. My PhD combines experimental neurosurgery, graded peripheral nerve stimulation, and simultaneous surface and depth recordings in anaesthetised pigs. I perform the surgical access and electrode placement, then use electrophysiological analysis and interpretable deep learning to investigate how cortical responses unfold over time, vary with stimulus intensity, and differ across brain regions.
+
+### Software
+
+Alongside research, I develop software around my hobbies, from standalone tools to larger projects I'm working towards releasing. My interests include machine learning, computer vision, and scientific computing. One current project uses image embeddings and OCR to identify Japanese trading cards from shop photos and look up their market prices.
+
+Outside research and software: climbing, hiking, and photography.
